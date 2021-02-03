@@ -41,3 +41,4 @@ What we're looking for:
 - Concise code that is sensibly structured. You won't be able to account for every edge case, but please leave a comment where you've taken shortcuts.
 - A simple interface which is cleanly laid out. Use any framework you're comfortable with (we use [react-bootstrap](https://react-bootstrap.github.io/)).
 - Feel free to edit the database structure to improve performance
+1
